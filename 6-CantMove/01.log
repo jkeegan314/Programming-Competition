@@ -1,0 +1,14 @@
+Trial 1:
+  4 stones
+  up to 2 stones may be taken by P1 in total
+  up to 3 stones may be taken by P2 in total
+
+Error - The answer must be either 1 or 2
+
+Trial 2:
+  4 stones
+  up to 4 stones may be taken by P1 in total
+  up to 4 stones may be taken by P2 in total
+
+Error - The answer must be either 1 or 2
+

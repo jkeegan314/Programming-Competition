@@ -1,0 +1,23 @@
+Trial 1:
+  2 questions
+  5 points for correct answers
+  10 point deduction for incorrect answers
+
+  Maximum expected score = 2.5
+  Prob[0] = 0.25  ---  skip
+  Prob[1] = 0.5  ---  attempt
+
+Trial 2:
+  7 questions
+  10 points for correct answers
+  16 point deduction for incorrect answers
+
+  Maximum expected score = 8.125
+  Prob[0] = 0.5  ---  attempt
+  Prob[1] = 0.25  ---  skip
+  Prob[2] = 0.5  ---  attempt
+  Prob[3] = 0.5  ---  attempt
+  Prob[4] = 0.5  ---  skip
+  Prob[5] = 0.75  ---  attempt
+  Prob[6] = 0.5  ---  skip
+
